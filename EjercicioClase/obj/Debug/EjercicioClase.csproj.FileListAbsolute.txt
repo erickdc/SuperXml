@@ -1,0 +1,6 @@
+c:\users\erick\documents\visual studio 2013\Projects\EjercicioClase\EjercicioClase\bin\Debug\EjercicioClase.exe.config
+c:\users\erick\documents\visual studio 2013\Projects\EjercicioClase\EjercicioClase\bin\Debug\EjercicioClase.exe
+c:\users\erick\documents\visual studio 2013\Projects\EjercicioClase\EjercicioClase\bin\Debug\EjercicioClase.pdb
+c:\users\erick\documents\visual studio 2013\Projects\EjercicioClase\EjercicioClase\obj\Debug\EjercicioClase.csprojResolveAssemblyReference.cache
+c:\users\erick\documents\visual studio 2013\Projects\EjercicioClase\EjercicioClase\obj\Debug\EjercicioClase.exe
+c:\users\erick\documents\visual studio 2013\Projects\EjercicioClase\EjercicioClase\obj\Debug\EjercicioClase.pdb
